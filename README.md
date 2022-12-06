@@ -15,7 +15,15 @@ Meet the team [Mageswaran Meyyappan](https://github.com/Magii18), [Ramanjaneya R
 * [Sprint 4 Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/80c363b18dd88ad2b38fea03ff35b854c1f37e8f/Sprint%204.png)
 
 ### Communication
-* [Discord](https://discord.com/)
+* Discord
   * [Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/f341b00b2f01c5f0e27497e59f52e16e0f70e671/Discord.png)
-* [Whatsapp](https://www.whatsapp.com/)
+* Whatsapp
   * [Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/eff80d41e9cc072d224ff51a21d0554824b490d8/Whatsapp.png)   
+
+### Tools
+* [VSCode](https://code.visualstudio.com/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Javascript](https://www.javascript.com/)
+* [Python](https://www.python.org/)
+* [Discord](https://discord.com/)
+* [Whatsapp](https://www.whatsapp.com/)
