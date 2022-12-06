@@ -14,7 +14,7 @@ Meet the team [Mageswaran Meyyappan](https://github.com/Magii18), [Ramanjaneya R
 * [Sprint 4 Documentation]()
 * [Sprint 4 Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/80c363b18dd88ad2b38fea03ff35b854c1f37e8f/Sprint%204.png)
 
-### Communication
+### Communication and Planning
 * Discord
   * [Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/f341b00b2f01c5f0e27497e59f52e16e0f70e671/Discord.png)
 * Whatsapp
