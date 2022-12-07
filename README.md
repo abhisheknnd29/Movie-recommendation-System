@@ -9,6 +9,7 @@ Meet the team [Mageswaran Meyyappan](https://github.com/Magii18), [Ramanjaneya R
 * Date: Spetember 21st - October 5th
 ### Sprint 2 - Backend
 * [Sprint 2 Documentation](https://docs.google.com/document/d/1TZ5BaFxXR3zFaJ8FCSOh1i-TcsDDx8FBHIKC6EjORJ8/edit?usp=sharing)
+* [Sprint 2 Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/b8db8255d31335e7f5e444f656ac16b19b85cfb9/Sprint%202%20Proof.png)
 * Date: October 5th - 26th
 ### Sprint 3 - Frontend
 * [Sprint 3 Documentation](https://docs.google.com/document/d/1vHl1WP6vK_FSBDM3OQeMhGJ0ydN8JRcN5E6I-Fm_9cI/edit)
