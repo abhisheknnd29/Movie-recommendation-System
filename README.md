@@ -3,7 +3,7 @@ __Team 1 Software Engineering Project__
 
 Meet the team [Mageswaran Meyyappan](https://github.com/Magii18), [Ramanjaneya Rahul Neelapu](https://github.com/nr-rahul), [Abhishek Anand](https://github.com/abhisheknnd29), [Nikhil Vatyani](https://github.com/nvatyani), [Sujith Subramanian](https://github.com/Sujith1414), [Surya Mahalakshmi](https://github.com/SuryaMahalakshmi809), [Viharika kasineni](https://github.com/viharika09)
 
-<img src="https://github.com/abhisheknnd29/Movie-recommendation-System/blob/4df104094f2fb7ff0d3aef0d0d70b538601340ff/Group.jpg" height="60" width="60" 
+<img src="https://github.com/abhisheknnd29/Movie-recommendation-System/blob/4df104094f2fb7ff0d3aef0d0d70b538601340ff/Group.jpg" height="60" width="60">
 
 ### Sprint 1 - Topic Brainstroming
 * [Sprint 1 Documentation](https://docs.google.com/document/d/1AAA_Ln-JZEpHegUfR37J3_Ik0IdEulFigDbaTf64xhY/edit?usp=sharing)
