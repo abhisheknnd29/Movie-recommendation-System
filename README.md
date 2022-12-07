@@ -19,7 +19,9 @@ Meet the team [Mageswaran Meyyappan](https://github.com/Magii18), [Ramanjaneya R
 * Discord
   * [Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/f341b00b2f01c5f0e27497e59f52e16e0f70e671/Discord.png)
 * Whatsapp
-  * [Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/eff80d41e9cc072d224ff51a21d0554824b490d8/Whatsapp.png)   
+  * [Proof](https://github.com/abhisheknnd29/Movie-recommendation-System/blob/eff80d41e9cc072d224ff51a21d0554824b490d8/Whatsapp.png)  
+  
+### [Final Presentation](https://docs.google.com/presentation/d/1wtxw9TWHqTfdrMSuwOaF38KkarwVMKAHM4R6kiTFpfA/edit?usp=sharing)
 
 ### Tools
 * [VSCode](https://code.visualstudio.com/)
