@@ -35,7 +35,7 @@ Meet the team [Mageswaran Meyyappan](https://github.com/Magii18), [Ramanjaneya R
 
 ### Tools
 * [VSCode](https://code.visualstudio.com/)
-* [Tensorflow](https://www.tensorflow.org/)
+* [NLTK](https://www.nltk.org/)
 * [Javascript](https://www.javascript.com/)
 * [Python](https://www.python.org/)
 * [Discord](https://discord.com/)
